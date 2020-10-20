@@ -1,7 +1,7 @@
 # MobileAppWebsite
 
 
-## Fully Responsive Website with HTML, CSS, and Javascript 
+* Fully Responsive Website with HTML, CSS, and Javascript 
 
 ## Site
 
